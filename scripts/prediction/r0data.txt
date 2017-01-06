@@ -1,0 +1,296 @@
+"_id" "atleta_id" "rodada_id" "nome" "posicao" "jogou" "pontos_num" "media_num" "preco_num" "variacao_num" "jogos_num" "mando" "adversario" "mando_fut" "adversario_fut" "pontos_fut" "variacao_fut" "vai_jogar"
+"1" "57ad288704de860594d2d6d5" 50347 0 "Alan Kardec" "atacante" FALSE 0 0 8 0 0 FALSE "-" FALSE "bot" -0.1 -2.19 TRUE
+"2" "57ad288704de860594d2d6f8" 68685 0 "Alan Patrick" "meia" FALSE 0 0 10 0 0 FALSE "-" TRUE "fla" 0.9 -1.98 TRUE
+"3" "57ad288704de860594d2d71c" 70132 0 "Alan Santos" "meia" FALSE 0 0 5 0 0 FALSE "-" TRUE "cfc" 2.1 0.22 TRUE
+"4" "57ad288704de860594d2d730" 37673 0 "Alecsandro" "atacante" FALSE 0 0 13 0 0 FALSE "-" TRUE "pal" 0.7 -2.93 TRUE
+"5" "57ad288704de860594d2d744" 74014 0 "Alemão" "zagueiro" FALSE 0 0 4 0 0 FALSE "-" TRUE "scz" -0.3 -1.28 TRUE
+"6" "57ad288704de860594d2d7a4" 91100 0 "Alípio" "meia" FALSE 0 0 5 0 0 FALSE "-" FALSE "scz" -1 -2.06 TRUE
+"7" "57ad288704de860594d2d7b8" 51702 0 "Alison" "zagueiro" FALSE 0 0 3 0 0 FALSE "-" TRUE "ame" 2.1 0.75 TRUE
+"8" "57ad288704de860594d2d7f4" 90481 0 "Alisson Farias" "meia" FALSE 0 0 3 0 0 FALSE "-" TRUE "int" 2 0.68 TRUE
+"9" "57ad288704de860594d2d82c" 87391 0 "Allano" "atacante" FALSE 0 0 4 0 0 FALSE "-" FALSE "cfc" 0.3 -0.84 TRUE
+"10" "57ad288704de860594d2d87c" 72071 0 "Amaral" "meia" FALSE 0 0 8 0 0 FALSE "-" FALSE "scz" 3 0.09 TRUE
+"11" "57ad288704de860594d2d890" 61135 0 "Ananias" "atacante" FALSE 0 0 8 0 0 FALSE "-" FALSE "int" -1.5 -3.22 TRUE
+"12" "57ad288704de860594d2d8a4" 50413 0 "Anderson Aquino" "atacante" FALSE 0 0 4 0 0 FALSE "-" TRUE "bot" 0.7 -0.54 TRUE
+"13" "57ad288704de860594d2d902" 68690 0 "André" "atacante" FALSE 0 0 17 0 0 FALSE "-" TRUE "cor" 0.4 -4.21 TRUE
+"14" "57ad288704de860594d2d916" 89930 0 "Andrigo" "meia" FALSE 0 0 12 0 0 FALSE "-" TRUE "int" -1 -3.91 TRUE
+"15" "57ad288704de860594d2d92a" 88323 0 "Ángel Romero" "atacante" FALSE 0 0 12 0 0 FALSE "-" TRUE "cor" 0.6 -2.73 TRUE
+"16" "57ad288704de860594d2d981" 73317 0 "Argel Fucks" "tecnico" FALSE 0 0 9 0 0 FALSE "-" TRUE "int" 2.35 -0.65 TRUE
+"17" "57ad288704de860594d2d995" 80363 0 "Ariel Cabral" "meia" FALSE 0 0 14 0 0 FALSE "-" FALSE "cfc" 1.4 -2.68 TRUE
+"18" "57ad288704de860594d2da02" 80337 0 "Arthur" "atacante" FALSE 0 0 8 0 0 FALSE "-" TRUE "scz" -1.5 -3.22 TRUE
+"19" "57ad288704de860594d2da2a" 82740 0 "Artur" "zagueiro" FALSE 0 0 2 0 0 FALSE "-" TRUE "ame" 1.6 0.65 TRUE
+"20" "57ad288704de860594d2da36" 85591 0 "Artur" "lateral" FALSE 0 0 5 0 0 FALSE "-" TRUE "int" 5.2 2.5 TRUE
+"21" "57ad288704de860594d2da81" 88540 0 "Auro" "lateral" FALSE 0 0 3 0 0 FALSE "-" FALSE "bot" 5.3 3.1 TRUE
+"22" "57ad288704de860594d2da95" 85930 0 "Aylon" "atacante" FALSE 0 0 4 0 0 FALSE "-" TRUE "int" 4.1 1.96 TRUE
+"23" "57ad288704de860594d2dace" 71778 0 "Bady" "meia" FALSE 0 0 9 0 0 FALSE "-" TRUE "fig" 2.6 -0.47 TRUE
+"24" "57ad288704de860594d2daf6" 87887 0 "Balbuena" "zagueiro" FALSE 0 0 5 0 0 FALSE "-" TRUE "cor" 0.8 -0.74 TRUE
+"25" "57ad288704de860594d2db0a" 95637 0 "Banguelê" "meia" FALSE 0 0 2 0 0 FALSE "-" FALSE "bot" -1.1 -1.26 TRUE
+"26" "57ad288704de860594d2db48" 38139 0 "Bobô" "atacante" FALSE 0 0 6 0 0 FALSE "-" FALSE "cor" 0.7 -1.07 TRUE
+"27" "57ad288704de860594d2db5c" 37941 0 "Borges" "atacante" FALSE 0 0 6 0 0 FALSE "-" TRUE "ame" -0.3 -1.81 TRUE
+"28" "57ad288704de860594d2dbb1" 73620 0 "Bruno Alves" "zagueiro" FALSE 0 0 7 0 0 FALSE "-" TRUE "fig" 7.8 3.88 TRUE
+"29" "57ad288704de860594d2dbf7" 70944 0 "Bruno Henrique" "meia" FALSE 0 0 11 0 0 FALSE "-" TRUE "cor" 7.9 2.9 TRUE
+"30" "57ad288704de860594d2dc1f" 71915 0 "Bruno Moraes" "atacante" FALSE 0 0 5 0 0 FALSE "-" TRUE "scz" 0.5 -0.96 TRUE
+"31" "57ad288704de860594d2dc76" 89924 0 "Bruno Ramires" "meia" FALSE 0 0 4 0 0 FALSE "-" FALSE "cfc" -0.8 -1.65 TRUE
+"32" "57ad288704de860594d2dc8a" 51683 0 "Bruno Rangel" "atacante" FALSE 0 0 9 0 0 FALSE "-" FALSE "int" -0.5 -2.75 TRUE
+"33" "57ad288704de860594d2dc9e" 51705 0 "Bruno Rodrigo" "zagueiro" FALSE 0 0 15 0 0 FALSE "-" FALSE "cfc" 1.1 -3.16 TRUE
+"34" "57ad288704de860594d2dcda" 68698 0 "Bruno Silva" "meia" FALSE 0 0 5 0 0 FALSE "-" TRUE "bot" -0.8 -1.91 TRUE
+"35" "57ad288704de860594d2de40" 63194 0 "Carlinhos" "lateral" FALSE 0 0 11 0 0 FALSE "-" TRUE "cfc" 8.5 3.34 TRUE
+"36" "57ad288704de860594d2de68" 61211 0 "Carlos Cesar" "lateral" FALSE 0 0 4 0 0 FALSE "-" TRUE "cam" 7 4.09 TRUE
+"37" "57ad288704de860594d2de7c" 50369 0 "Carlos Eduardo" "meia" FALSE 0 0 10 0 0 FALSE "-" TRUE "cam" 2.3 -0.96 TRUE
+"38" "57ad288704de860594d2debc" 81682 0 "Cazares" "meia" FALSE 0 0 7 0 0 FALSE "-" TRUE "cam" 5.7 2.34 TRUE
+"39" "57ad288704de860594d2dee4" 88269 0 "Centurión" "atacante" FALSE 0 0 13 0 0 FALSE "-" FALSE "bot" 1.3 -2.48 TRUE
+"40" "57ad288704de860594d2df0c" 74210 0 "César González" "meia" FALSE 0 0 4 0 0 FALSE "-" TRUE "cfc" 0.1 -0.99 TRUE
+"41" "57ad288704de860594d2df86" 37688 0 "Cícero" "meia" FALSE 0 0 15 0 0 FALSE "-" FALSE "ame" -0.5 -4.34 TRUE
+"42" "57ad288704de860594d2df9a" 73863 0 "Claudinei" "meia" FALSE 0 0 5 0 0 FALSE "-" TRUE "ame" 6.2 3.24 TRUE
+"43" "57ad288704de860594d2dfbb" 74074 0 "Claudio Winck" "lateral" FALSE 0 0 3 0 0 FALSE "-" FALSE "int" 3.9 2.07 TRUE
+"44" "57ad288704de860594d2dfcf" 83817 0 "Clayson" "meia" FALSE 0 0 4 0 0 FALSE "-" FALSE "fig" -4.1 -3.26 TRUE
+"45" "57ad288704de860594d2dff7" 81770 0 "Clayton" "atacante" FALSE 0 0 13 0 0 FALSE "-" TRUE "cam" 1 -2.71 TRUE
+"46" "57ad288704de860594d2e00b" 38032 0 "Cleber Santana" "meia" FALSE 0 0 7 0 0 FALSE "-" FALSE "int" -2.1 -3.4 TRUE
+"47" "57ad288704de860594d2e047" 38530 0 "Cleiton Xavier" "meia" FALSE 0 0 17 0 0 FALSE "-" TRUE "pal" 9.2 2.27 TRUE
+"48" "57ad288704de860594d2e0bb" 42411 0 "Cuca" "tecnico" FALSE 0 0 11 0 0 FALSE "-" TRUE "pal" 7.21 2.39 TRUE
+"49" "57ad288704de860594d2e0cf" 71709 0 "Cuéllar" "meia" FALSE 0 0 12 0 0 FALSE "-" TRUE "fla" 7.6 2.41 TRUE
+"50" "57ad288704de860594d2e163" 84382 0 "Danilo Barcelos" "lateral" FALSE 0 0 3 0 0 FALSE "-" TRUE "ame" 0.9 -0.13 TRUE
+"51" "57ad288704de860594d2e1ae" 82768 0 "Danilo" "goleiro" FALSE 0 0 10 0 0 FALSE "-" FALSE "int" 18.2 10.74 TRUE
+"52" "57ad288704de860594d2e1d6" 42247 0 "Danny Morais" "zagueiro" FALSE 0 0 5 0 0 FALSE "-" TRUE "scz" -2.1 -2.87 TRUE
+"53" "57ad288704de860594d2e212" 50317 0 "David Braz" "zagueiro" FALSE 0 0 8 0 0 FALSE "-" FALSE "cam" 1.6 -0.94 TRUE
+"54" "57ad288704de860594d2e226" 90309 0 "David" "meia" FALSE 0 0 1 0 0 FALSE "-" FALSE "scz" 1.3 0.69 TRUE
+"55" "57ad288704de860594d2e27b" 69782 0 "Dener Assunção" "lateral" FALSE 0 0 5 0 0 FALSE "-" FALSE "int" 4.1 1.69 TRUE
+"56" "57ad288704de860594d2e2db" 38431 0 "Diego Cavalieri" "goleiro" FALSE 0 0 5 0 0 FALSE "-" FALSE "ame" 7.7 4.34 TRUE
+"57" "57ad288704de860594d2e307" 68725 0 "Diego Renan" "lateral" FALSE 0 0 9 0 0 FALSE "-" FALSE "scz" 1.4 -1.35 TRUE
+"58" "57ad288704de860594d2e31b" 68911 0 "Diego Souza" "meia" FALSE 0 0 21 0 0 FALSE "-" FALSE "fla" 3.6 -2.91 TRUE
+"59" "57ad288704de860594d2e3a6" 94985 0 "Dodô" "lateral" FALSE 0 0 3 0 0 FALSE "-" TRUE "cfc" 9.5 6.19 TRUE
+"60" "57ad288704de860594d2e3c1" 40990 0 "Dorival Júnior" "tecnico" FALSE 0 0 11 0 0 FALSE "-" FALSE "cam" 1.96 -1.47 TRUE
+"61" "57ad288704de860594d2e3d5" 82469 0 "Douglas Coutinho" "atacante" FALSE 0 0 5 0 0 FALSE "-" FALSE "cfc" -0.5 -1.69 TRUE
+"62" "57ad288704de860594d2e3fd" 78407 0 "Douglas Grolli" "zagueiro" FALSE 0 0 9 0 0 FALSE "-" FALSE "fig" 4.4 0.85 TRUE
+"63" "57ad288704de860594d2e485" 78967 0 "Dudu" "atacante" FALSE 0 0 9 0 0 FALSE "-" TRUE "fig" 0.5 -2.01 TRUE
+"64" "57ad288704de860594d2e492" 38100 0 "Durval" "zagueiro" FALSE 0 0 11 0 0 FALSE "-" FALSE "fla" 2.2 -1.29 TRUE
+"65" "57ad288704de860594d2e4a6" 38061 0 "Edcarlos" "zagueiro" FALSE 0 0 3 0 0 FALSE "-" TRUE "cam" 8.4 5.38 TRUE
+"66" "57ad288704de860594d2e4ba" 70173 0 "Ederson" "meia" FALSE 0 0 5 0 0 FALSE "-" TRUE "fla" 4.9 2.28 TRUE
+"67" "57ad288704de860594d2e4ce" 78361 0 "Edgardo Bauza" "tecnico" FALSE 0 0 12 0 0 FALSE "-" FALSE "bot" 4.77 0.33 TRUE
+"68" "57ad288704de860594d2e4fb" 37792 0 "Edinho" "meia" FALSE 0 0 5 0 0 FALSE "-" FALSE "cor" -2.5 -3.16 TRUE
+"69" "57ad288704de860594d2e536" 80370 0 "Edson" "meia" FALSE 0 0 5 0 0 FALSE "-" FALSE "ame" 2.2 0.29 TRUE
+"70" "57ad288704de860594d2e55e" 87211 0 "Eduardo Baptista" "tecnico" FALSE 0 0 9 0 0 FALSE "-" FALSE "fig" 3.35 0.08 TRUE
+"71" "57ad288704de860594d2e572" 70360 0 "Eduardo Sasha" "atacante" FALSE 0 0 5 0 0 FALSE "-" TRUE "int" 1.1 -0.51 TRUE
+"72" "57ad288704de860594d2e5a4" 78994 0 "Eduardo" "meia" FALSE 0 0 4 0 0 FALSE "-" TRUE "cam" 4.7 2.4 TRUE
+"73" "57ad288704de860594d2e5ba" 42145 0 "Egídio" "lateral" FALSE 0 0 20 0 0 FALSE "-" TRUE "pal" 7.7 0.37 TRUE
+"74" "57ad288704de860594d2e5e7" 74140 0 "Élber" "meia" FALSE 0 0 5 0 0 FALSE "-" FALSE "cfc" 7.4 4.12 TRUE
+"75" "57ad288704de860594d2e5fb" 54395 0 "Elias" "meia" FALSE 0 0 20 0 0 FALSE "-" TRUE "cor" 4 -2.35 TRUE
+"76" "57ad288704de860594d2e616" 50313 0 "Elicarlos" "meia" FALSE 0 0 5 0 0 FALSE "-" TRUE "fig" 5.4 2.65 TRUE
+"77" "57ad288704de860594d2e676" 51299 0 "Emerson Silva" "zagueiro" FALSE 0 0 3 0 0 FALSE "-" TRUE "bot" 1.7 0.46 TRUE
+"78" "57ad288704de860594d2e68a" 68744 0 "Emerson" "atacante" FALSE 0 0 4 0 0 FALSE "-" TRUE "fla" -3.4 -3.26 TRUE
+"79" "57ad288704de860594d2e6df" 82952 0 "Ermel" "atacante" FALSE 0 0 7 0 0 FALSE "-" TRUE "fig" 2.4 -0.09 TRUE
+"80" "57ad288704de860594d2e707" 49651 0 "Ernando" "zagueiro" FALSE 0 0 7 0 0 FALSE "-" TRUE "int" 4.1 1.16 TRUE
+"81" "57ad288704de860594d2e789" 50301 0 "Everton" "meia" FALSE 0 0 13 0 0 FALSE "-" TRUE "fla" 9.4 3.47 TRUE
+"82" "57ad288704de860594d2e79d" 86757 0 "Everton" "atacante" FALSE 0 0 4 0 0 FALSE "-" FALSE "cor" 0.5 -0.69 TRUE
+"83" "57ad288704de860594d2e7b1" 86842 0 "Ewandro" "atacante" FALSE 0 0 8 0 0 FALSE "-" FALSE "pal" -0.8 -2.71 TRUE
+"84" "57ad288704de860594d2e7e1" 80393 0 "Fabinho" "meia" FALSE 0 0 6 0 0 FALSE "-" TRUE "int" -0.5 -1.96 TRUE
+"85" "57ad288704de860594d2e82b" 37656 0 "Fábio" "goleiro" FALSE 0 0 9 0 0 FALSE "-" FALSE "cfc" 9.7 4.75 TRUE
+"86" "57ad288704de860594d2e88f" 42500 0 "Fagner" "lateral" FALSE 0 0 18 0 0 FALSE "-" TRUE "cor" 9.9 2.52 TRUE
+"87" "57ad288704de860594d2e8e4" 60825 0 "Felipe Azevedo" "atacante" FALSE 0 0 10 0 0 FALSE "-" FALSE "fig" 4.1 0.37 TRUE
+"88" "57ad288704de860594d2e8f8" 50295 0 "Felipe Menezes" "meia" FALSE 0 0 5 0 0 FALSE "-" FALSE "fig" 1.7 -0.07 TRUE
+"89" "57ad288704de860594d2e920" 73375 0 "Felipe" "zagueiro" FALSE 0 0 23 0 0 FALSE "-" TRUE "cor" 13.7 3.99 TRUE
+"90" "57ad288704de860594d2e927" 90399 0 "Fernandes" "meia" FALSE 0 0 4 0 0 FALSE "-" TRUE "bot" 2.3 0.63 TRUE
+"91" "57ad288704de860594d2e94f" 42213 0 "Fernando Bob" "meia" FALSE 0 0 13 0 0 FALSE "-" TRUE "int" 3.7 -0.72 TRUE
+"92" "57ad288704de860594d2e963" 49737 0 "Fernando Gabriel" "meia" FALSE 0 0 3 0 0 FALSE "-" TRUE "scz" 9.5 6.19 TRUE
+"93" "57ad288704de860594d2e99f" 71571 0 "Fernando Miguel" "goleiro" FALSE 0 0 7 0 0 FALSE "-" FALSE "scz" -8 -6.26 TRUE
+"94" "57ad288704de860594d2e9b3" 38140 0 "Fernando Prass" "goleiro" FALSE 0 0 21 0 0 FALSE "-" TRUE "pal" 4.7 -2.1 TRUE
+"95" "57ad288704de860594d2e9c7" 82128 0 "Ferrugem" "meia" FALSE 0 0 4 0 0 FALSE "-" TRUE "fig" 0.6 -0.62 TRUE
+"96" "57ad288704de860594d2ea22" 38162 0 "Fred" "atacante" FALSE 0 0 27 0 0 FALSE "-" FALSE "ame" 6 -2.73 TRUE
+"97" "57ad288704de860594d2ea37" 72490 0 "Fred" "zagueiro" FALSE 0 0 11 0 0 FALSE "-" FALSE "cor" 3.3 -0.48 TRUE
+"98" "57ad288704de860594d2ea73" 89154 0 "Gabriel Jesus" "atacante" FALSE 0 0 19 0 0 FALSE "-" TRUE "pal" 24.4 12.91 TRUE
+"99" "57ad288704de860594d2ea87" 85040 0 "Gabriel Xavier" "meia" FALSE 0 0 5 0 0 FALSE "-" FALSE "fla" 2.6 0.59 TRUE
+"100" "57ad288704de860594d2ead7" 83257 0 "Gabriel" "atacante" FALSE 0 0 16 0 0 FALSE "-" FALSE "cam" -0.8 -4.82 TRUE
+"101" "57ad288704de860594d2eaeb" 87393 0 "Gabriel" "zagueiro" FALSE 0 0 1 0 0 FALSE "-" TRUE "cam" 13.7 9.81 TRUE
+"102" "57ad288704de860594d2eb73" 89256 0 "Gerson" "meia" FALSE 0 0 14 0 0 FALSE "-" FALSE "ame" 1.7 -2.46 TRUE
+"103" "57ad288704de860594d2eb9c" 37306 0 "Gilson Kleina" "tecnico" FALSE 0 0 4 0 0 FALSE "-" TRUE "cfc" 5.24 2.79 TRUE
+"104" "57ad288704de860594d2ebb5" 63014 0 "Gil" "meia" FALSE 0 0 7 0 0 FALSE "-" FALSE "int" 0 -1.85 TRUE
+"105" "57ad288704de860594d2ebdd" 68938 0 "Giovanni Augusto" "meia" FALSE 0 0 5 0 0 FALSE "-" TRUE "cor" -0.5 -1.69 TRUE
+"106" "57ad288704de860594d2ec05" 72097 0 "Giovanni" "lateral" FALSE 0 0 4 0 0 FALSE "-" FALSE "ame" 4.7 2.4 TRUE
+"107" "57ad288704de860594d2ec2d" 51548 0 "Giuliano" "meia" FALSE 0 0 13 0 0 FALSE "-" FALSE "cor" 0.2 -3.29 TRUE
+"108" "57ad288704de860594d2ec3c" 39431 0 "Givanildo Oliveira" "tecnico" FALSE 0 0 3 0 0 FALSE "-" TRUE "ame" 3.1 1.49 TRUE
+"109" "57ad288704de860594d2ec63" 38230 0 "Grafite" "atacante" FALSE 0 0 15 0 0 FALSE "-" TRUE "scz" 11.7 4.63 TRUE
+"110" "57ad288704de860594d2ecdb" 71769 0 "Guilherme Queiroz" "atacante" FALSE 0 0 3 0 0 FALSE "-" TRUE "fig" -0.5 -1.16 TRUE
+"111" "57ad288704de860594d2ecef" 90635 0 "Guilherme Xavier" "meia" FALSE 0 0 2 0 0 FALSE "-" TRUE "ame" 0 -0.53 TRUE
+"112" "57ad288704de860594d2ed03" 50294 0 "Guilherme" "meia" FALSE 0 0 16 0 0 FALSE "-" TRUE "cor" 1.8 -2.91 TRUE
+"113" "57ad288704de860594d2ed20" 68887 0 "Gum" "zagueiro" FALSE 0 0 13 0 0 FALSE "-" FALSE "ame" 4.4 -0.21 TRUE
+"114" "57ad288704de860594d2ed34" 89815 0 "Gustavo Ferrareis" "meia" FALSE 0 0 4 0 0 FALSE "-" TRUE "int" 0 -1.06 TRUE
+"115" "57ad288704de860594d2ed48" 78248 0 "Gustavo Henrique" "zagueiro" FALSE 0 0 7 0 0 FALSE "-" FALSE "cam" -0.8 -2.44 TRUE
+"116" "57ad288704de860594d2ed70" 87999 0 "Gustavo Scarpa" "meia" FALSE 0 0 12 0 0 FALSE "-" FALSE "ame" 4.9 0.43 TRUE
+"117" "57ad288704de860594d2ed98" 37245 0 "Guto Ferreira" "tecnico" FALSE 0 0 6 0 0 FALSE "-" FALSE "int" 2.88 0.53 TRUE
+"118" "57ad288704de860594d2edb6" 79973 0 "Helton Leite" "goleiro" FALSE 0 0 3 0 0 FALSE "-" TRUE "bot" 1 -0.06 TRUE
+"119" "57ad288704de860594d2edca" 68773 0 "Henrique Almeida" "atacante" FALSE 0 0 7 0 0 FALSE "-" FALSE "cor" -2 -3.32 TRUE
+"120" "57ad288704de860594d2ee0d" 37694 0 "Henrique" "meia" FALSE 0 0 4 0 0 FALSE "-" FALSE "cfc" 5.1 2.69 TRUE
+"121" "57ad288704de860594d2ee21" 50856 0 "Henrique" "zagueiro" FALSE 0 0 9 0 0 FALSE "-" FALSE "ame" 4.5 0.93 TRUE
+"122" "57ad288704de860594d2ee35" 74078 0 "Hernani" "meia" FALSE 0 0 3 0 0 FALSE "-" FALSE "pal" -0.6 -1.24 TRUE
+"123" "57ad288704de860594d2eeb3" 82758 0 "Hyuri" "atacante" FALSE 0 0 5 0 0 FALSE "-" TRUE "cam" 4.6 2.06 TRUE
+"124" "57ad288704de860594d2efe3" 80129 0 "Jadson" "meia" FALSE 0 0 4 0 0 FALSE "-" FALSE "pal" 0 -1.06 TRUE
+"125" "57ad288704de860594d2f01f" 71634 0 "Jaime" "zagueiro" FALSE 0 0 4 0 0 FALSE "-" TRUE "fig" 8.4 5.12 TRUE
+"126" "57ad288704de860594d2f054" 62047 0 "Jean" "meia" FALSE 0 0 11 0 0 FALSE "-" TRUE "pal" 2.2 -1.29 TRUE
+"127" "57ad288704de860594d2f081" 84917 0 "Jeferson" "lateral" FALSE 0 0 5 0 0 FALSE "-" FALSE "fig" 4.4 1.91 TRUE
+"128" "57ad288704de860594d2f0a9" 81950 0 "Jefferson" "meia" FALSE 0 0 4 0 0 FALSE "-" TRUE "fig" 1.5 0.04 TRUE
+"129" "57ad288704de860594d2f0d0" 69010 0 "João Carlos" "goleiro" FALSE 0 0 4 0 0 FALSE "-" FALSE "fig" 8 4.82 TRUE
+"130" "57ad288704de860594d2f0f5" 56102 0 "João Paulo" "meia" FALSE 0 0 7 0 0 FALSE "-" TRUE "cfc" 1.3 -0.9 TRUE
+"131" "57ad288704de860594d2f15a" 81881 0 "João Ricardo" "goleiro" FALSE 0 0 5 0 0 FALSE "-" TRUE "ame" 6.4 3.38 TRUE
+"132" "57ad288704de860594d2f182" 68987 0 "João Vitor" "meia" FALSE 0 0 3 0 0 FALSE "-" FALSE "fig" -1.8 -2.12 TRUE
+"133" "57ad288704de860594d2f196" 80330 0 "Jocinei" "meia" FALSE 0 0 3 0 0 FALSE "-" TRUE "fig" 7.3 4.57 TRUE
+"134" "57ad288704de860594d2f222" 37662 0 "Jonathan" "lateral" FALSE 0 0 8 0 0 FALSE "-" FALSE "ame" 4.4 1.12 TRUE
+"135" "57ad288704de860594d2f249" 71694 0 "Jorge Ortega" "atacante" FALSE 0 0 5 0 0 FALSE "-" TRUE "cfc" 0 -1.32 TRUE
+"136" "57ad288704de860594d2f25d" 88065 0 "Jorge" "lateral" FALSE 0 0 15 0 0 FALSE "-" TRUE "fla" 12.5 5.22 TRUE
+"137" "57ad288704de860594d2f271" 86859 0 "José Welison" "meia" FALSE 0 0 4 0 0 FALSE "-" FALSE "scz" -1.1 -1.87 TRUE
+"138" "57ad288704de860594d2f285" 68951 0 "Josimar" "meia" FALSE 0 0 5 0 0 FALSE "-" FALSE "int" -1.3 -2.28 TRUE
+"139" "57ad288704de860594d2f2ad" 36540 0 "Juan" "zagueiro" FALSE 0 0 7 0 0 FALSE "-" TRUE "fla" 11.7 6.75 TRUE
+"140" "57ad288704de860594d2f316" 92182 0 "Juninho" "zagueiro" FALSE 0 0 9 0 0 FALSE "-" TRUE "cfc" 9.3 4.46 TRUE
+"141" "57ad288704de860594d2f33e" 88848 0 "Júnior Oliveira" "goleiro" FALSE 0 0 3 0 0 FALSE "-" TRUE "fig" 8 5.09 TRUE
+"142" "57ad288704de860594d2f366" 50427 0 "Kadu" "zagueiro" FALSE 0 0 3 0 0 FALSE "-" FALSE "fig" 3.8 2 TRUE
+"143" "57ad288704de860594d2f3f5" 71549 0 "Kelvin" "atacante" FALSE 0 0 5 0 0 FALSE "-" FALSE "bot" 0.8 -0.74 TRUE
+"144" "57ad288704de860594d2f41d" 86485 0 "Keno" "atacante" FALSE 0 0 10 0 0 FALSE "-" TRUE "scz" 19 11.32 TRUE
+"145" "57ad288704de860594d2f431" 68930 0 "Kieza" "atacante" FALSE 0 0 13 0 0 FALSE "-" FALSE "scz" 8.1 2.52 TRUE
+"146" "57ad288704de860594d2f445" 40179 0 "Kleber" "atacante" FALSE 0 0 24 0 0 FALSE "-" TRUE "cfc" 4.6 -2.97 TRUE
+"147" "57ad288704de860594d2f48b" 89885 0 "Leandrinho" "meia" FALSE 0 0 5 0 0 FALSE "-" TRUE "bot" -1.8 -2.65 TRUE
+"148" "57ad288704de860594d2f4b9" 39144 0 "Leandro Domingues" "meia" FALSE 0 0 7 0 0 FALSE "-" FALSE "scz" -0.8 -2.44 TRUE
+"149" "57ad288704de860594d2f4e1" 38822 0 "Leandro Guerreiro" "meia" FALSE 0 0 4 0 0 FALSE "-" TRUE "ame" 0.8 -0.47 TRUE
+"150" "57ad288704de860594d2f513" 73085 0 "Leandro" "atacante" FALSE 0 0 10 0 0 FALSE "-" TRUE "cfc" -0.1 -2.72 TRUE
+"151" "57ad288704de860594d2f53b" 93746 0 "Lenis" "atacante" FALSE 0 0 15 0 0 FALSE "-" FALSE "fla" -0.5 -4.34 TRUE
+"152" "57ad288704de860594d2f577" 94214 0 "Léo Duarte" "zagueiro" FALSE 0 0 4 0 0 FALSE "-" TRUE "fla" 5.6 3.06 TRUE
+"153" "57ad288704de860594d2f605" 50459 0 "Léo" "zagueiro" FALSE 0 0 4 0 0 FALSE "-" FALSE "cfc" -2 -2.53 TRUE
+"154" "57ad288704de860594d2f619" 69177 0 "Léo" "lateral" FALSE 0 0 3 0 0 FALSE "-" FALSE "pal" -5.8 -2.26 TRUE
+"155" "57ad288704de860594d2f655" 40025 0 "Levir Culpi" "tecnico" FALSE 0 0 11 0 0 FALSE "-" FALSE "ame" 5.55 1.17 TRUE
+"156" "57ad288704de860594d2f6b9" 94249 0 "Lourency" "atacante" FALSE 0 0 2 0 0 FALSE "-" FALSE "int" -0.5 -0.9 TRUE
+"157" "57ad288704de860594d2f727" 86759 0 "Luan" "atacante" FALSE 0 0 14 0 0 FALSE "-" FALSE "cor" 0.2 -3.56 TRUE
+"158" "57ad288704de860594d2f73b" 84554 0 "Lucão" "zagueiro" FALSE 0 0 4 0 0 FALSE "-" FALSE "bot" 12.9 8.43 TRUE
+"159" "57ad288704de860594d2f777" 69282 0 "Lucas Barrios" "atacante" FALSE 0 0 15 0 0 FALSE "-" TRUE "pal" -2 -5.44 TRUE
+"160" "57ad288704de860594d2f78b" 84851 0 "Lucas Cândido" "meia" FALSE 0 0 5 0 0 FALSE "-" TRUE "cam" 3.6 1.32 TRUE
+"161" "57ad288704de860594d2f7b7" 94931 0 "Lucas Fernandes" "meia" FALSE 0 0 2 0 0 FALSE "-" FALSE "bot" 10.3 7.04 TRUE
+"162" "57ad288704de860594d2f7f3" 84684 0 "Lucas Gomes" "atacante" FALSE 0 0 6 0 0 FALSE "-" FALSE "int" 2.6 0.32 TRUE
+"163" "57ad288704de860594d2f8d4" 84558 0 "Lucas Romero" "meia" FALSE 0 0 5 0 0 FALSE "-" FALSE "cfc" -3.7 -4.04 TRUE
+"164" "57ad288704de860594d2f910" 50362 0 "Lucas" "lateral" FALSE 0 0 9 0 0 FALSE "-" FALSE "cfc" -8.4 -8.26 TRUE
+"165" "57ad288704de860594d2f950" 80287 0 "Luciano" "atacante" FALSE 0 0 6 0 0 FALSE "-" TRUE "cor" 0.7 -1.07 TRUE
+"166" "57ad288704de860594d2f964" 38062 0 "Lugano" "zagueiro" FALSE 0 0 10 0 0 FALSE "-" FALSE "bot" 5 1.03 TRUE
+"167" "57ad288704de860594d2f9c3" 55348 0 "Luis Ricardo" "lateral" FALSE 0 0 5 0 0 FALSE "-" TRUE "bot" 2.6 0.59 TRUE
+"168" "57ad288704de860594d2fa4e" 92087 0 "Lyanco" "zagueiro" FALSE 0 0 3 0 0 FALSE "-" FALSE "bot" 5.9 3.54 TRUE
+"169" "57ad288704de860594d2fa76" 41218 0 "Magrão" "goleiro" FALSE 0 0 5 0 0 FALSE "-" FALSE "fla" 4 1.62 TRUE
+"170" "57ad288704de860594d2fa99" 38196 0 "Maicon" "meia" FALSE 0 0 8 0 0 FALSE "-" FALSE "cor" 2.7 -0.13 TRUE
+"171" "57ad288704de860594d2faef" 71066 0 "Mancuello" "meia" FALSE 0 0 14 0 0 FALSE "-" TRUE "fla" 1.6 -2.53 TRUE
+"172" "57ad288704de860594d2fb7f" 69022 0 "Marcelo Cirino" "atacante" FALSE 0 0 5 0 0 FALSE "-" TRUE "fla" 3.6 1.32 TRUE
+"173" "57ad288704de860594d2fb93" 37770 0 "Marcelo Grohe" "goleiro" FALSE 0 0 8 0 0 FALSE "-" FALSE "cor" 3 0.09 TRUE
+"174" "57ad288704de860594d2fbc1" 50328 0 "Marcelo Oliveira" "lateral" FALSE 0 0 10 0 0 FALSE "-" FALSE "cor" 4.6 0.74 TRUE
+"175" "57ad288704de860594d2fbe8" 78895 0 "Marcelo" "zagueiro" FALSE 0 0 3 0 0 FALSE "-" FALSE "int" 4.5 2.51 TRUE
+"176" "57ad288704de860594d2fbfc" 85400 0 "Marcelo" "meia" FALSE 0 0 3 0 0 FALSE "-" FALSE "scz" -0.6 -1.24 TRUE
+"177" "57ad288704de860594d2fca2" 80188 0 "Marcos Junior" "atacante" FALSE 0 0 11 0 0 FALSE "-" FALSE "ame" 1.2 -2.03 TRUE
+"178" "57ad288704de860594d2fd26" 69343 0 "Mark González" "meia" FALSE 0 0 13 0 0 FALSE "-" FALSE "fla" -1.3 -4.4 TRUE
+"179" "57ad288704de860594d2fd80" 68954 0 "Marquinhos Gabriel" "meia" FALSE 0 0 14 0 0 FALSE "-" TRUE "cor" 1.2 -2.82 TRUE
+"180" "57ad288704de860594d2fd94" 80552 0 "Marquinhos Pedroso" "lateral" FALSE 0 0 4 0 0 FALSE "-" TRUE "fig" 5 2.62 TRUE
+"181" "57ad288704de860594d2fdbc" 60788 0 "Marquinhos" "meia" FALSE 0 0 5 0 0 FALSE "-" TRUE "int" 0.2 -1.18 TRUE
+"182" "57ad288704de860594d2fe60" 95335 0 "Matheus Jesus" "meia" FALSE 0 0 2 0 0 FALSE "-" FALSE "fig" 1.8 0.79 TRUE
+"183" "57ad288704de860594d2fe88" 95465 0 "Matheus Nolasco" "atacante" FALSE 0 0 1 0 0 FALSE "-" FALSE "cam" 3.2 2.09 TRUE
+"184" "57ad288704de860594d2fee6" 87486 0 "Matheus Reis" "lateral" FALSE 0 0 2 0 0 FALSE "-" FALSE "bot" 4.6 2.85 TRUE
+"185" "57ad288704de860594d2ff01" 89285 0 "Matheus Sales" "meia" FALSE 0 0 5 0 0 FALSE "-" TRUE "pal" 3.3 1.1 TRUE
+"186" "57ad288704de860594d2ff7f" 94649 0 "Maxi Rolón" "atacante" FALSE 0 0 3 0 0 FALSE "-" FALSE "cam" 0.2 -0.65 TRUE
+"187" "57ad288704de860594d2ffe3" 71707 0 "Michael Ortega" "meia" FALSE 0 0 5 0 0 FALSE "-" TRUE "fig" 0 -1.32 TRUE
+"188" "57ad288704de860594d3001d" 78371 0 "Miller Bolaños" "atacante" FALSE 0 0 18 0 0 FALSE "-" FALSE "cor" -2.6 -6.68 TRUE
+"189" "57ad288704de860594d30031" 86486 0 "Milton Mendes" "tecnico" FALSE 0 0 3 0 0 FALSE "-" TRUE "scz" 4.11 2.23 TRUE
+"190" "57ad288704de860594d30045" 63158 0 "Moisés" "meia" FALSE 0 0 3 0 0 FALSE "-" TRUE "pal" -0.3 -1.01 TRUE
+"191" "57ad288704de860594d30084" 36934 0 "Muricy Ramalho" "tecnico" FALSE 0 0 11 0 0 FALSE "-" TRUE "fla" 6.65 1.98 TRUE
+"192" "57ad288704de860594d300cf" 83772 0 "Neilton" "atacante" FALSE 0 0 5 0 0 FALSE "-" TRUE "bot" 1.3 -0.37 TRUE
+"193" "57ad288704de860594d300f7" 83786 0 "Neris" "zagueiro" FALSE 0 0 7 0 0 FALSE "-" TRUE "scz" -1.1 -2.66 TRUE
+"194" "57ad288704de860594d30130" 87742 0 "Neto Moura" "meia" FALSE 0 0 4 0 0 FALSE "-" FALSE "fla" -0.8 -1.65 TRUE
+"195" "57ad288704de860594d30185" 69705 0 "Nikão" "meia" FALSE 0 0 15 0 0 FALSE "-" FALSE "pal" -2.6 -5.88 TRUE
+"196" "57ad288704de860594d30231" 81898 0 "Osman" "meia" FALSE 0 0 9 0 0 FALSE "-" TRUE "ame" 3.4 0.12 TRUE
+"197" "57ad288704de860594d30245" 42222 0 "Osvaldo" "atacante" FALSE 0 0 5 0 0 FALSE "-" FALSE "ame" 5.2 2.5 TRUE
+"198" "57ad288704de860594d30259" 36940 0 "Oswaldo de Oliveira" "tecnico" FALSE 0 0 7 0 0 FALSE "-" FALSE "fla" 1.6 -0.68 TRUE
+"199" "57ad288704de860594d3026d" 81241 0 "Oswaldo Henríquez" "zagueiro" FALSE 0 0 6 0 0 FALSE "-" FALSE "fla" 4.3 1.57 TRUE
+"200" "57ad288704de860594d3028e" 82463 0 "Otávio" "meia" FALSE 0 0 25 0 0 FALSE "-" FALSE "pal" 1.7 -5.37 TRUE
+"201" "57ad288704de860594d302a7" 70987 0 "Pablo Diogo" "atacante" FALSE 0 0 3 0 0 FALSE "-" TRUE "cam" 1.8 0.53 TRUE
+"202" "57ad288704de860594d302c8" 69138 0 "Pablo" "atacante" FALSE 0 0 5 0 0 FALSE "-" FALSE "pal" -0.8 -1.91 TRUE
+"203" "57ad288704de860594d302eb" 75295 0 "Paolo Guerrero" "atacante" FALSE 0 0 21 0 0 FALSE "-" TRUE "fla" -4.1 -8.57 TRUE
+"204" "57ad288704de860594d30347" 63172 0 "Paulão" "zagueiro" FALSE 0 0 10 0 0 FALSE "-" TRUE "int" -0.4 -2.94 TRUE
+"205" "57ad288704de860594d3035c" 78578 0 "Paulinho" "atacante" FALSE 0 0 5 0 0 FALSE "-" FALSE "cam" -1.9 -2.72 TRUE
+"206" "57ad288704de860594d30370" 37604 0 "Paulo André" "zagueiro" FALSE 0 0 5 0 0 FALSE "-" FALSE "pal" -4.3 -4.26 TRUE
+"207" "57ad288704de860594d30384" 36943 0 "Paulo Autuori" "tecnico" FALSE 0 0 8 0 0 FALSE "-" FALSE "pal" -1.62 -3.31 TRUE
+"208" "57ad288704de860594d303d2" 68873 0 "Paulo Victor" "goleiro" FALSE 0 0 9 0 0 FALSE "-" TRUE "fla" 3.8 0.41 TRUE
+"209" "57ad288704de860594d303ed" 80853 0 "Pedro Geromel" "zagueiro" FALSE 0 0 16 0 0 FALSE "-" FALSE "cor" 7.5 1.28 TRUE
+"210" "57ad288704de860594d3047b" 93567 0 "Pisano" "meia" FALSE 0 0 4 0 0 FALSE "-" FALSE "cfc" 0 -1.06 TRUE
+"211" "57ad288704de860594d3048f" 51476 0 "Rafael Bastos" "meia" FALSE 0 0 6 0 0 FALSE "-" TRUE "ame" 4.6 1.79 TRUE
+"212" "57ad288704de860594d304e4" 50361 0 "Rafael Lima" "zagueiro" FALSE 0 0 4 0 0 FALSE "-" FALSE "int" 5 2.62 TRUE
+"213" "57ad288704de860594d3050c" 37623 0 "Rafael Marques" "zagueiro" FALSE 0 0 4 0 0 FALSE "-" TRUE "cfc" 5.3 2.84 TRUE
+"214" "57ad288704de860594d30519" 38957 0 "Rafael Marques" "atacante" FALSE 0 0 7 0 0 FALSE "-" TRUE "pal" 4.7 1.6 TRUE
+"215" "57ad288704de860594d30534" 37655 0 "Rafael Moura" "atacante" FALSE 0 0 8 0 0 FALSE "-" TRUE "fig" -0.2 -2.26 TRUE
+"216" "57ad288704de860594d305d1" 78715 0 "Ramiro" "meia" FALSE 0 0 5 0 0 FALSE "-" FALSE "cor" 7.9 4.49 TRUE
+"217" "57ad288704de860594d305e5" 88087 0 "Ramon" "zagueiro" FALSE 0 0 5 0 0 FALSE "-" FALSE "scz" -0.9 -1.99 TRUE
+"218" "57ad288704de860594d3064b" 92193 0 "Ravanelli" "meia" FALSE 0 0 6 0 0 FALSE "-" FALSE "fig" 2.1 -0.04 TRUE
+"219" "57ad288704de860594d3066b" 78850 0 "Reinaldo" "lateral" FALSE 0 0 7 0 0 FALSE "-" FALSE "fig" 9.9 5.43 TRUE
+"220" "57ad288704de860594d3067f" 72037 0 "Renan Fonseca" "zagueiro" FALSE 0 0 4 0 0 FALSE "-" TRUE "bot" -0.4 -1.35 TRUE
+"221" "57ad288704de860594d30697" 68932 0 "Renan Ribeiro" "goleiro" FALSE 0 0 5 0 0 FALSE "-" FALSE "bot" 10.7 6.54 TRUE
+"222" "57ad288704de860594d306e7" 38908 0 "Renato" "meia" FALSE 0 0 13 0 0 FALSE "-" FALSE "cam" 3.8 -0.65 TRUE
+"223" "57ad288704de860594d30723" 78445 0 "Renê" "lateral" FALSE 0 0 14 0 0 FALSE "-" FALSE "fla" 6.7 1.22 TRUE
+"224" "57ad288704de860594d3074b" 70874 0 "Rhayner" "atacante" FALSE 0 0 5 0 0 FALSE "-" FALSE "fig" -0.3 -1.54 TRUE
+"225" "57ad288704de860594d30771" 94068 0 "Ribamar" "atacante" FALSE 0 0 10 0 0 FALSE "-" TRUE "bot" 0.9 -1.98 TRUE
+"226" "57ad288704de860594d30784" 41273 0 "Ricardo Gomes" "tecnico" FALSE 0 0 5 0 0 FALSE "-" TRUE "bot" 1.52 -0.21 TRUE
+"227" "57ad288704de860594d307ac" 92081 0 "Richarlison" "atacante" FALSE 0 0 4 0 0 FALSE "-" FALSE "ame" 5 2.62 TRUE
+"228" "57ad288704de860594d307d4" 68834 0 "Rithely" "meia" FALSE 0 0 12 0 0 FALSE "-" FALSE "fla" -2.6 -5.09 TRUE
+"229" "57ad288704de860594d30845" 73992 0 "Rodinei" "lateral" FALSE 0 0 5 0 0 FALSE "-" TRUE "fla" 10 6.03 TRUE
+"230" "57ad288704de860594d308c4" 72362 0 "Rodrigo Lindoso" "meia" FALSE 0 0 11 0 0 FALSE "-" TRUE "bot" 5.3 0.99 TRUE
+"231" "57ad288704de860594d3091a" 61033 0 "Rodriguinho" "meia" FALSE 0 0 7 0 0 FALSE "-" TRUE "cor" 3.1 0.43 TRUE
+"232" "57ad288704de860594d30942" 89898 0 "Róger Guedes" "atacante" FALSE 0 0 3 0 0 FALSE "-" TRUE "pal" 7.5 4.72 TRUE
+"233" "57ad288704de860594d30956" 79437 0 "Roger Machado" "tecnico" FALSE 0 0 13 0 0 FALSE "-" FALSE "cor" 2.69 -1.46 TRUE
+"234" "57ad288704de860594d3096a" 73540 0 "Rogério" "atacante" FALSE 0 0 11 0 0 FALSE "-" FALSE "bot" 0 -2.91 TRUE
+"235" "57ad288704de860594d3097e" 38287 0 "Roger" "atacante" FALSE 0 0 7 0 0 FALSE "-" FALSE "fig" 1.2 -0.97 TRUE
+"236" "57ad288704de860594d309c5" 81148 0 "Ronaldo Mendes" "meia" FALSE 0 0 10 0 0 FALSE "-" FALSE "cam" 1 -1.91 TRUE
+"237" "57ad288704de860594d30a1d" 82939 0 "Ruy" "meia" FALSE 0 0 4 0 0 FALSE "-" TRUE "cfc" 3 1.15 TRUE
+"238" "57ad288704de860594d30a31" 84592 0 "Salgueiro" "atacante" FALSE 0 0 9 0 0 FALSE "-" TRUE "bot" 0 -2.38 TRUE
+"239" "57ad288704de860594d30a45" 73384 0 "Samuel Xavier" "lateral" FALSE 0 0 8 0 0 FALSE "-" FALSE "fla" -0.3 -2.34 TRUE
+"240" "57ad288704de860594d30a6d" 79256 0 "Sánchez Miño" "lateral" FALSE 0 0 6 0 0 FALSE "-" FALSE "cfc" -2.1 -3.13 TRUE
+"241" "57ad288704de860594d30a88" 79578 0 "Sassá" "atacante" FALSE 0 0 6 0 0 FALSE "-" TRUE "bot" 0.1 -1.51 TRUE
+"242" "57ad288704de860594d30ab0" 89101 0 "Sávio" "atacante" FALSE 0 0 5 0 0 FALSE "-" TRUE "ame" 0.9 -0.66 TRUE
+"243" "57ad288704de860594d30ae9" 50454 0 "Serginho" "meia" FALSE 0 0 5 0 0 FALSE "-" FALSE "fla" 1.2 -0.44 TRUE
+"244" "57ad288704de860594d30afd" 88002 0 "Serginho" "meia" FALSE 0 0 3 0 0 FALSE "-" FALSE "cam" 0.2 -0.65 TRUE
+"245" "57ad288704de860594d30b3b" 86764 0 "Sidcley" "lateral" FALSE 0 0 6 0 0 FALSE "-" FALSE "pal" -0.3 -1.81 TRUE
+"246" "57ad288704de860594d30b6c" 71799 0 "Silvinho" "atacante" FALSE 0 0 4 0 0 FALSE "-" FALSE "int" 1.9 0.34 TRUE
+"247" "57ad288704de860594d30b8f" 88387 0 "Sueliton" "zagueiro" FALSE 0 0 4 0 0 FALSE "-" TRUE "ame" 6.3 3.57 TRUE
+"248" "57ad288704de860594d30ba5" 86686 0 "Tchê Tchê" "meia" FALSE 0 0 5 0 0 FALSE "-" TRUE "pal" -0.4 -1.62 TRUE
+"249" "57ad288704de860594d30bfb" 38394 0 "Thiago Heleno" "zagueiro" FALSE 0 0 10 0 0 FALSE "-" FALSE "pal" 0.4 -2.35 TRUE
+"250" "57ad288704de860594d30c0f" 92225 0 "Thiago Lopes" "meia" FALSE 0 0 5 0 0 FALSE "-" TRUE "cfc" 0.7 -0.81 TRUE
+"251" "57ad288704de860594d30c23" 89637 0 "Thiago Maia" "meia" FALSE 0 0 5 0 0 FALSE "-" FALSE "cam" 1.6 -0.15 TRUE
+"252" "57ad288704de860594d30c37" 83615 0 "Thiago Martins" "zagueiro" FALSE 0 0 6 0 0 FALSE "-" TRUE "pal" 12.5 7.6 TRUE
+"253" "57ad288704de860594d30c4b" 71123 0 "Thiago Mendes" "meia" FALSE 0 0 14 0 0 FALSE "-" FALSE "bot" -3.1 -5.98 TRUE
+"254" "57ad288704de860594d30caf" 50393 0 "Thiego" "zagueiro" FALSE 0 0 5 0 0 FALSE "-" FALSE "int" -2.6 -3.24 TRUE
+"255" "57ad288704de860594d30cd7" 37601 0 "Tiago Cardoso" "goleiro" FALSE 0 0 9 0 0 FALSE "-" TRUE "scz" -0.5 -2.75 TRUE
+"256" "57ad288704de860594d30ceb" 71885 0 "Tiago Costa" "lateral" FALSE 0 0 5 0 0 FALSE "-" TRUE "scz" 3.6 1.32 TRUE
+"257" "57ad288704de860594d30cff" 62119 0 "Tiago Luis" "atacante" FALSE 0 0 7 0 0 FALSE "-" TRUE "ame" 0.4 -1.56 TRUE
+"258" "57ad288704de860594d30d0c" 70058 0 "Tiago Real" "meia" FALSE 0 0 6 0 0 FALSE "-" FALSE "scz" -1.7 -2.84 TRUE
+"259" "57ad288704de860594d30d20" 79042 0 "Tiago" "zagueiro" FALSE 0 0 5 0 0 FALSE "-" TRUE "cam" 7.9 4.49 TRUE
+"260" "57ad288704de860594d30d55" 45125 0 "Tite" "tecnico" FALSE 0 0 15 0 0 FALSE "-" TRUE "cor" 4.66 -0.54 TRUE
+"261" "57ad288704de860594d30da6" 54797 0 "Túlio de Melo" "atacante" FALSE 0 0 5 0 0 FALSE "-" FALSE "fla" 0 -1.32 TRUE
+"262" "57ad288704de860594d30dba" 60852 0 "Uendel" "lateral" FALSE 0 0 8 0 0 FALSE "-" TRUE "cor" 2.7 -0.13 TRUE
+"263" "57ad288704de860594d30dce" 72007 0 "Uillian Correia" "meia" FALSE 0 0 5 0 0 FALSE "-" TRUE "scz" 9.7 5.81 TRUE
+"264" "57ad288704de860594d30de2" 85418 0 "Uilson" "goleiro" FALSE 0 0 3 0 0 FALSE "-" TRUE "cam" 4.3 2.37 TRUE
+"265" "57ad288704de860594d30df6" 39850 0 "Vagner Mancini" "tecnico" FALSE 0 0 2 0 0 FALSE "-" FALSE "scz" 0.27 -0.33 TRUE
+"266" "57ad288704de860594d30e46" 62121 0 "Vanderlei" "goleiro" FALSE 0 0 15 0 0 FALSE "-" FALSE "cam" 4 -1.03 TRUE
+"267" "57ad288704de860594d30e5a" 71117 0 "Vander" "atacante" FALSE 0 0 4 0 0 FALSE "-" FALSE "scz" 0.1 -0.99 TRUE
+"268" "57ad288704de860594d30e82" 70046 0 "Victor Ferraz" "lateral" FALSE 0 0 10 0 0 FALSE "-" FALSE "cam" 7.9 3.16 TRUE
+"269" "57ad288704de860594d30ea2" 86410 0 "Victor Luis" "lateral" FALSE 0 0 4 0 0 FALSE "-" TRUE "bot" 3.8 1.74 TRUE
+"270" "57ad288704de860594d30eb6" 63000 0 "Victor Ramos" "zagueiro" FALSE 0 0 6 0 0 FALSE "-" FALSE "scz" 2.6 0.32 TRUE
+"271" "57ad288704de860594d30eca" 82653 0 "Victor Rangel" "atacante" FALSE 0 0 4 0 0 FALSE "-" TRUE "ame" 0.8 -0.47 TRUE
+"272" "57ad288704de860594d30f0b" 82767 0 "Vinícius Araújo" "atacante" FALSE 0 0 7 0 0 FALSE "-" FALSE "fla" -1.5 -2.96 TRUE
+"273" "57ad288704de860594d30f33" 60780 0 "Vinícius Eutrópio" "tecnico" FALSE 0 0 2 0 0 FALSE "-" TRUE "fig" 4.44 2.73 TRUE
+"274" "57ad288704de860594d30f5b" 68917 0 "Vinicius" "atacante" FALSE 0 0 6 0 0 FALSE "-" TRUE "cfc" 8.3 4.52 TRUE
+"275" "57ad288704de860594d30f6f" 71162 0 "Vinícius" "meia" FALSE 0 0 7 0 0 FALSE "-" FALSE "pal" 1 -1.12 TRUE
+"276" "57ad288704de860594d30faa" 78435 0 "Vitinho" "atacante" FALSE 0 0 15 0 0 FALSE "-" TRUE "int" -0.8 -4.56 TRUE
+"277" "57ad288704de860594d30ff0" 87552 0 "Vitor Bueno" "meia" FALSE 0 0 9 0 0 FALSE "-" FALSE "cam" -1 -3.12 TRUE
+"278" "57ad288704de860594d31004" 72605 0 "Vitor Hugo" "zagueiro" FALSE 0 0 5 0 0 FALSE "-" TRUE "pal" 5.1 2.43 TRUE
+"279" "57ad288704de860594d31018" 68904 0 "Vítor" "lateral" FALSE 0 0 8 0 0 FALSE "-" TRUE "scz" 0.2 -1.97 TRUE
+"280" "57ad288704de860594d31040" 88479 0 "Walace" "meia" FALSE 0 0 15 0 0 FALSE "-" FALSE "cor" 6.1 0.52 TRUE
+"281" "57ad288704de860594d310b8" 62127 0 "Wallyson" "atacante" FALSE 0 0 4 0 0 FALSE "-" TRUE "scz" -1.7 -2.31 TRUE
+"282" "57ad288704de860594d310e0" 51413 0 "Walter" "goleiro" FALSE 0 0 4 0 0 FALSE "-" TRUE "cor" 5 2.62 TRUE
+"283" "57ad288704de860594d310f4" 62128 0 "Walter" "atacante" FALSE 0 0 19 0 0 FALSE "-" FALSE "pal" -0.7 -5.54 TRUE
+"284" "57ad288704de860594d3111b" 86527 0 "Wellington Cézar" "meia" FALSE 0 0 4 0 0 FALSE "-" TRUE "scz" -1.8 -2.38 TRUE
+"285" "57ad288704de860594d3112f" 38279 0 "Wellington Paulista" "atacante" FALSE 0 0 12 0 0 FALSE "-" FALSE "fig" 1.6 -2 TRUE
+"286" "57ad288704de860594d31143" 71892 0 "Wellington Silva" "lateral" FALSE 0 0 6 0 0 FALSE "-" FALSE "ame" 9.7 5.54 TRUE
+"287" "57ad288704de860594d311ee" 71631 0 "Weverton" "goleiro" FALSE 0 0 12 0 0 FALSE "-" FALSE "pal" -5 -6.85 TRUE
+"288" "57ad288704de860594d31202" 85297 0 "Wilder" "atacante" FALSE 0 0 4 0 0 FALSE "-" FALSE "bot" 0 -1.06 TRUE
+"289" "57ad288704de860594d31216" 70928 0 "William Henrique" "atacante" FALSE 0 0 3 0 0 FALSE "-" FALSE "scz" 0.6 -0.35 TRUE
+"290" "57ad288704de860594d31257" 89275 0 "William" "lateral" FALSE 0 0 9 0 0 FALSE "-" TRUE "int" 2.7 -0.4 TRUE
+"291" "57ad288704de860594d3126b" 78478 0 "Willian Arão" "meia" FALSE 0 0 11 0 0 FALSE "-" TRUE "fla" 9 3.71 TRUE
+"292" "57ad288704de860594d312a7" 42116 0 "Willian" "atacante" FALSE 0 0 18 0 0 FALSE "-" FALSE "cfc" 4.1 -1.75 TRUE
+"293" "57ad288704de860594d312bb" 50284 0 "Wilson" "goleiro" FALSE 0 0 5 0 0 FALSE "-" TRUE "cfc" 5 2.35 TRUE
+"294" "57ad288704de860594d312e3" 84926 0 "Yago" "meia" FALSE 0 0 2 0 0 FALSE "-" TRUE "cam" -0.5 -0.9 TRUE
+"295" "57ad288704de860594d313c5" 87192 0 "Zeca" "lateral" FALSE 0 0 11 0 0 FALSE "-" FALSE "cam" 2.6 -1 TRUE

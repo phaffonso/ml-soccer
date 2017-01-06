@@ -1,3 +1,8 @@
+#This is an old script, mostly useless
+#Reads data from mongodb, creates a model based on the
+#first n-1 rounds, then predicts the results of round n
+#and inserts the results in a different collection in mongodb
+
 library(rmongodb)
 
 rodada_min <- 12
@@ -17,7 +22,7 @@ if(mongo.is.connected(mongo_con) == TRUE) {
   mtest <- mongo.find.all(mongo_con, col, query=query2, data.frame = TRUE);
 }
 
-n = nrow(mydata);
+n = nrow(mtest);
 
 set.seed(21)
 #m = mydata[sample(nrow(mydata)),];
